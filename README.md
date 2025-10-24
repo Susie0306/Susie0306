@@ -1,2 +1,7 @@
 ## Welcome to my GitHub! 🥳🥳🥳
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiSusie0306anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+### Who am I?
+-🖥A front-end engineer.
+-🧱A redrocker.
+-🔍More identities to be unlocked... Continuing to learn~
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Susie0306&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
