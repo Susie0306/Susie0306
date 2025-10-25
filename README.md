@@ -8,7 +8,7 @@
 - 🧱 A redrocker.
 - 🔍 More identities to be unlocked... Continuing to learn~
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Susie0306&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Susie0306&layout=compact)
 
 </div>
 
